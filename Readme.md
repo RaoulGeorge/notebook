@@ -1,4 +1,4 @@
-#Useful shit
+# Useful shit
 
-##reactive programming
+## reactive programming
 https://thinkster.io/tutorials/learn-rxjs-observables/what-is-rxjs
