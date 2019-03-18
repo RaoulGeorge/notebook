@@ -14,12 +14,13 @@ https://overreacted.io/writing-resilient-components/
 ### Perf
 https://dev.to/changoman/react-optimizations-with-reactmemo-usecallback-and-usereducer-42ni?utm_campaign=React%20Ninjas%20Newsletter&utm_medium=email&utm_source=Revue%20newsletter
 
+https://web.dev/fast/incorporate-performance-budgets-into-your-build-tools/codelab-setting-performance-budgets-with-webpack
+
 
 ### Styled components
 https://www.styled-components.com/docs/basics#motivation
 
 https://itnext.io/thinking-in-styled-components
-
 
 
 
