@@ -7,6 +7,10 @@ https://thinkster.io/tutorials/learn-rxjs-observables/what-is-rxjs
 
 ## React
 
+### Component Architecture
+
+https://overreacted.io/writing-resilient-components/
+
 ### Perf
 https://dev.to/changoman/react-optimizations-with-reactmemo-usecallback-and-usereducer-42ni?utm_campaign=React%20Ninjas%20Newsletter&utm_medium=email&utm_source=Revue%20newsletter
 
