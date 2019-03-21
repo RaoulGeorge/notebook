@@ -23,6 +23,10 @@ https://www.styled-components.com/docs/basics#motivation
 https://itnext.io/thinking-in-styled-components
 
 
+### Redux
+https://dev.to/selbekk/redux-in-27-lines-2i92
+
+
 
 
 ## Multiple Github accounts
