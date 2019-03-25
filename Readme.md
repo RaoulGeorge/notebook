@@ -17,6 +17,8 @@ https://dev.to/changoman/react-optimizations-with-reactmemo-usecallback-and-user
 https://web.dev/fast/incorporate-performance-budgets-into-your-build-tools/codelab-setting-performance-budgets-with-webpack
 
 
+https://jakearchibald.com/2019/f1-perf/
+
 ### Styled components
 https://www.styled-components.com/docs/basics#motivation
 
