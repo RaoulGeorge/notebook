@@ -4,7 +4,6 @@
 https://thinkster.io/tutorials/learn-rxjs-observables/what-is-rxjs
 
 
-
 ## React
 
 ### Component Architecture
