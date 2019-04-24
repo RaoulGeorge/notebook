@@ -17,6 +17,8 @@ https://dev.to/changoman/react-optimizations-with-reactmemo-usecallback-and-user
 
 https://web.dev/fast/incorporate-performance-budgets-into-your-build-tools/codelab-setting-performance-budgets-with-webpack
 
+https://daviseford.com/blog/2018/04/25/advanced-javascript-performance-optimizations.html
+
 
 https://jakearchibald.com/2019/f1-perf/
 
